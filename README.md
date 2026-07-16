@@ -22,3 +22,11 @@ _To be documented as the build progresses — see /feedback session ID in Devpos
 
 ## Setup
 _Coming soon._
+
+
+
+## About
+
+Lead Scout is an AI-powered lead research and outreach workflow built during OpenAI Build Week 2026.
+
+This project is a prototype workflow developed as part of the broader Lubaba.ai vision—an AI-native platform for autonomous business operations.
